@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct  9 21:33:03 2019
+Created on Thu Oct  10 23:33:03 2019
 
 @author: Luis Rodriguez
 """
