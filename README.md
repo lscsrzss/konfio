@@ -1,6 +1,4 @@
 # Konfio
-Konfio Project
-
 The following project was developed in Python 3.7.3 using the Spyder Environmet.
 
 Requirements:
